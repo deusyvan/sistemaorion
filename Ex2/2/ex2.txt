@@ -1,0 +1,11 @@
+Senhores,
+
+Fazer as 8 páginas de acordo com as imagens em anexo.
+Foi utilizado o adminlte.io
+
+Estou enviando uma página de exemplo com o layout feito. Quem quiser utilizá-la, pode ficar à vontade.
+
+Enviem o exercício no somente as 8 páginas em html ou o link do github de vocês.
+
+Atenciosamente,
+Orion Teles.
